@@ -1,0 +1,33 @@
+{
+  "name": "BibliotecaVirtualBackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gary185/BibliotecaVirtualBackend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gary185/BibliotecaVirtualBackend/issues"
+  },
+  "homepage": "https://github.com/gary185/BibliotecaVirtualBackend#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "jwt-simple": "^0.5.6",
+    "moment": "^2.24.0",
+    "mongoose": "^5.7.8",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
