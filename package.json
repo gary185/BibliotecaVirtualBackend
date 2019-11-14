@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/gary185/BibliotecaVirtualBackend#readme",
   "dependencies": {
+    "base64topdf": "^1.1.8",
     "crypto": "^1.0.1",
     "ejs": "^2.7.1",
     "express": "^4.17.1",
